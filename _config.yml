@@ -1,10 +1,10 @@
 # Site settings
-title: PORTFOLIO di HEYIYANG
-SEOTitle: Portfolio per Academy di Brera
+title: 何依洋的主页
+SEOTitle: 嘿嘿嘿
 header-img: img/post-bg-desk.jpg
 email: henhao998711@gmail.com
-description: "Banvenuti il mio portfolio"
-keyword: "PORTFOLIO"
+description: "天天吃鸡蛋"
+keyword: "叽里呱啦"
 url: "https://Henhaodetiedan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Henhaodetiedan/Henhaodetiedan.github.io.git" # you code repository
